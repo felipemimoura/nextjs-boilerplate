@@ -1,0 +1,5 @@
+!.storeybook
+!.jest
+build
+coverage
+.next
